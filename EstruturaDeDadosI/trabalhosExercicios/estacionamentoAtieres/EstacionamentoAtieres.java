@@ -13,19 +13,6 @@ import javax.swing.JPanel;
 
 public class EstacionamentoAtieres {
 
-	static JFrame janela = new JFrame("Sistema de controle do estacionamento");
-	static JFrame janelaAjuda = new JFrame("Informações");
-	static JPanel telaAjuda = new JPanel();
-	static JPanel tela = new JPanel();
-
-	static ImageIcon ImageMapa2 = new ImageIcon("img\\estacionamento.jpg");
-	static ImageIcon ImageMapa1 = new ImageIcon("img\\piso1.jpg");
-	static ImageIcon carro1 = new ImageIcon("img\\carro.jpg");
-
-	static JButton botaoEntrada = new JButton("Entrada");
-	static JButton botaoSaida = new JButton("Saída");
-	static JButton botaoAjuda = new JButton("Ajuda");
-
 	static JPanel carro1_1 = new JPanel();
 	static JPanel carro1_2 = new JPanel();
 	static JPanel carro1_3 = new JPanel();
@@ -40,6 +27,37 @@ public class EstacionamentoAtieres {
 	static JPanel carro1_12 = new JPanel();
 	static JPanel carro1_13 = new JPanel();
 	static JPanel carro1_14 = new JPanel();
+	static JPanel carro1_15 = new JPanel();
+	static JPanel carro1_16 = new JPanel();
+	static JPanel carro1_17 = new JPanel();
+	static JPanel carro1_18 = new JPanel();
+	static JPanel carro1_19 = new JPanel();
+	static JPanel carro1_20 = new JPanel();
+	static JPanel carro1_21 = new JPanel();
+	static JPanel carro1_22 = new JPanel();
+	static JPanel carro1_23 = new JPanel();
+	static JPanel carro1_24 = new JPanel();
+	static JPanel carro1_25 = new JPanel();
+	static JPanel carro1_26 = new JPanel();
+	static JPanel carro1_27 = new JPanel();
+	static JPanel carro1_28 = new JPanel();
+	static JPanel carro1_29 = new JPanel();
+	static JPanel carro1_30 = new JPanel();
+	static JPanel carro1_31 = new JPanel();
+	static JPanel carro1_32 = new JPanel();
+	static JPanel carro1_33 = new JPanel();
+	static JPanel carro1_34 = new JPanel();
+	static JPanel carro1_35 = new JPanel();
+	static JPanel carro1_36 = new JPanel();
+	static JPanel carro1_37 = new JPanel();
+	static JPanel carro1_38 = new JPanel();
+	static JPanel carro1_39 = new JPanel();
+	static JPanel carro1_40 = new JPanel();
+	static JPanel carro1_41 = new JPanel();
+	static JPanel carro1_42 = new JPanel();
+	static JPanel carro1_43 = new JPanel();
+	static JPanel carro1_44 = new JPanel();
+	static JPanel carro1_45 = new JPanel();
 
 	static JPanel carro2_1 = new JPanel();
 	static JPanel carro2_2 = new JPanel();
@@ -55,6 +73,37 @@ public class EstacionamentoAtieres {
 	static JPanel carro2_12 = new JPanel();
 	static JPanel carro2_13 = new JPanel();
 	static JPanel carro2_14 = new JPanel();
+	static JPanel carro2_15 = new JPanel();
+	static JPanel carro2_16 = new JPanel();
+	static JPanel carro2_17 = new JPanel();
+	static JPanel carro2_18 = new JPanel();
+	static JPanel carro2_19 = new JPanel();
+	static JPanel carro2_20 = new JPanel();
+	static JPanel carro2_21 = new JPanel();
+	static JPanel carro2_22 = new JPanel();
+	static JPanel carro2_23 = new JPanel();
+	static JPanel carro2_24 = new JPanel();
+	static JPanel carro2_25 = new JPanel();
+	static JPanel carro2_26 = new JPanel();
+	static JPanel carro2_27 = new JPanel();
+	static JPanel carro2_28 = new JPanel();
+	static JPanel carro2_29 = new JPanel();
+	static JPanel carro2_30 = new JPanel();
+	static JPanel carro2_31 = new JPanel();
+	static JPanel carro2_32 = new JPanel();
+	static JPanel carro2_33 = new JPanel();
+	static JPanel carro2_34 = new JPanel();
+	static JPanel carro2_35 = new JPanel();
+	static JPanel carro2_36 = new JPanel();
+	static JPanel carro2_37 = new JPanel();
+	static JPanel carro2_38 = new JPanel();
+	static JPanel carro2_39 = new JPanel();
+	static JPanel carro2_40 = new JPanel();
+	static JPanel carro2_41 = new JPanel();
+	static JPanel carro2_42 = new JPanel();
+	static JPanel carro2_43 = new JPanel();
+	static JPanel carro2_44 = new JPanel();
+	static JPanel carro2_45 = new JPanel();
 
 	static JPanel carro3_1 = new JPanel();
 	static JPanel carro3_2 = new JPanel();
@@ -70,34 +119,80 @@ public class EstacionamentoAtieres {
 	static JPanel carro3_12 = new JPanel();
 	static JPanel carro3_13 = new JPanel();
 	static JPanel carro3_14 = new JPanel();
+	static JPanel carro3_15 = new JPanel();
+	static JPanel carro3_16 = new JPanel();
+	static JPanel carro3_17 = new JPanel();
+	static JPanel carro3_18 = new JPanel();
+	static JPanel carro3_19 = new JPanel();
+	static JPanel carro3_20 = new JPanel();
+	static JPanel carro3_21 = new JPanel();
+	static JPanel carro3_22 = new JPanel();
+	static JPanel carro3_23 = new JPanel();
+	static JPanel carro3_24 = new JPanel();
+	static JPanel carro3_25 = new JPanel();
+	static JPanel carro3_26 = new JPanel();
+	static JPanel carro3_27 = new JPanel();
+	static JPanel carro3_28 = new JPanel();
+	static JPanel carro3_29 = new JPanel();
+	static JPanel carro3_30 = new JPanel();
+	static JPanel carro3_31 = new JPanel();
+	static JPanel carro3_32 = new JPanel();
+	static JPanel carro3_33 = new JPanel();
+	static JPanel carro3_34 = new JPanel();
+	static JPanel carro3_35 = new JPanel();
+	static JPanel carro3_36 = new JPanel();
+	static JPanel carro3_37 = new JPanel();
+	static JPanel carro3_38 = new JPanel();
+	static JPanel carro3_39 = new JPanel();
+	static JPanel carro3_40 = new JPanel();
+	static JPanel carro3_41 = new JPanel();
+	static JPanel carro3_42 = new JPanel();
+	static JPanel carro3_43 = new JPanel();
+	static JPanel carro3_44 = new JPanel();
+	static JPanel carro3_45 = new JPanel();
+
+	static JFrame janela = new JFrame("Sistema de controle do estacionamento");
+	static JFrame janelaAjuda = new JFrame("Informações");
+	static JPanel telaAjuda = new JPanel();
+	static JPanel tela = new JPanel();
+
+	static ImageIcon ImageMapa2 = new ImageIcon("img\\estacionamento.jpg");
+	static ImageIcon ImageMapa1 = new ImageIcon("img\\piso1.jpg");
+
+	static JButton botaoEntrada = new JButton("Entrada");
+	static JButton botaoSaida = new JButton("Saída");
+	static JButton botaoAjuda = new JButton("Ajuda");
 
 	static JLabel textPiso1 = new JLabel("1° Piso");
 	static JLabel textPiso2 = new JLabel("2° Piso");
 	static JLabel textPiso3 = new JLabel("3° Piso");
-	static JLabel valorVagaLivre = new JLabel("21");
+
+	static JLabel valorVagaLivre = new JLabel("135");
 	static JLabel valorVagaOcup = new JLabel("0");
+	static JLabel valorVagaMoto = new JLabel("0");
+	static JLabel valorVagaEspecialLivre = new JLabel("0");
 
 	static JLabel JLImagemMapa2 = new JLabel(ImageMapa2);
 	static JLabel JLImagemMapa1 = new JLabel(ImageMapa1);
 	static JLabel JLImagemMapa3 = new JLabel(ImageMapa2);
 
 	static int vagaOcup = 0;
-	static int vagaLivre = 21;
-	static int vagaEspecial = 0;
+	static int vagaLivre = 135;
+	static int vagaEspecialLivre = 18;
 	static int vagaMoto = 0;
 
-	static boolean[][] e = new boolean[3][7];
+	static boolean[][] e = new boolean[3][45];
 
 	public static void main(String[] args) {
-		exibirTela(); 
+		exibirTela();
 		acaoBotao();
-
+		
 	}
 
 	static void inserirDados() {
 
 		for (int i = 0; i < 3; i++) {
-			for (int j = 0; j < 5; j++) {
+			for (int j = 0; j < 45; j++) {
 				e[i][j] = false;
 
 			}
@@ -290,22 +385,22 @@ public class EstacionamentoAtieres {
 		mapa1.add(numVaga13).setBounds(140, 85, 17, 17);
 		mapa1.add(numVaga14).setBounds(160, 85, 17, 17);
 		mapa1.add(numVaga15).setBounds(180, 85, 17, 17);
-		mapa1.add(numVaga16).setBounds(200, 85, 17, 17);
-		mapa1.add(numVaga17).setBounds(220, 85, 17, 17);
-		mapa1.add(numVaga18).setBounds(240, 85, 17, 17);
-		mapa1.add(numVaga19).setBounds(220, 85, 17, 17);
-		mapa1.add(numVaga20).setBounds(220, 85, 17, 17);
-		mapa1.add(numVaga21).setBounds(220, 85, 17, 17);
+		mapa1.add(numVaga16).setBounds(196, 99, 17, 17);
+		mapa1.add(numVaga17).setBounds(207, 99, 17, 17);
+		mapa1.add(numVaga18).setBounds(218, 99, 17, 17);
+		mapa1.add(numVaga19).setBounds(229, 99, 17, 17);
+		mapa1.add(numVaga20).setBounds(240, 99, 17, 17);
+		mapa1.add(numVaga21).setBounds(251, 99, 17, 17);
 		mapa1.add(numVaga22).setBounds(120, 195, 17, 17);
 		mapa1.add(numVaga23).setBounds(140, 195, 17, 17);
 		mapa1.add(numVaga24).setBounds(160, 195, 17, 17);
 		mapa1.add(numVaga25).setBounds(180, 195, 17, 17);
-		mapa1.add(numVaga26).setBounds(200, 195, 17, 17);
-		mapa1.add(numVaga27).setBounds(220, 195, 17, 17);
-		mapa1.add(numVaga28).setBounds(240, 195, 17, 17);
-		mapa1.add(numVaga29).setBounds(260, 195, 17, 17);
-		mapa1.add(numVaga30).setBounds(280, 195, 17, 17);
-		mapa1.add(numVaga31).setBounds(300, 195, 17, 17);
+		mapa1.add(numVaga26).setBounds(197, 185, 17, 17);
+		mapa1.add(numVaga27).setBounds(209, 185, 17, 17);
+		mapa1.add(numVaga28).setBounds(219, 185, 17, 17);
+		mapa1.add(numVaga29).setBounds(230, 185, 17, 17);
+		mapa1.add(numVaga30).setBounds(241, 185, 17, 17);
+		mapa1.add(numVaga31).setBounds(252, 185, 17, 17);
 		mapa1.add(numVaga32).setBounds(20, 235, 17, 17);
 		mapa1.add(numVaga33).setBounds(40, 235, 17, 17);
 		mapa1.add(numVaga34).setBounds(60, 235, 17, 17);
@@ -321,6 +416,20 @@ public class EstacionamentoAtieres {
 		mapa1.add(numVaga44).setBounds(260, 235, 17, 17);
 		mapa1.add(numVaga45).setBounds(280, 235, 17, 17);
 
+		numVaga16.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga17.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga18.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga19.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga20.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga21.setFont(new Font("Arial", Font.BOLD, 9));
+
+		numVaga26.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga27.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga28.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga29.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga30.setFont(new Font("Arial", Font.BOLD, 9));
+		numVaga31.setFont(new Font("Arial", Font.BOLD, 9));
+
 		mapa1.add(carro1_1).setBounds(20, 2, 17, 45);
 		mapa1.add(carro1_2).setBounds(40, 2, 17, 45);
 		mapa1.add(carro1_3).setBounds(60, 2, 17, 45);
@@ -331,10 +440,42 @@ public class EstacionamentoAtieres {
 		mapa1.add(carro1_8).setBounds(220, 2, 17, 45);
 		mapa1.add(carro1_9).setBounds(240, 2, 17, 45);
 		mapa1.add(carro1_10).setBounds(260, 2, 17, 45);
-		mapa1.add(carro1_11).setBounds(220, 2, 17, 45);
-		mapa1.add(carro1_12).setBounds(240, 2, 17, 45);
-		mapa1.add(carro1_13).setBounds(260, 2, 17, 45);
-		mapa1.add(carro1_14).setBounds(280, 2, 17, 45);
+		mapa1.add(carro1_11).setBounds(280, 2, 17, 45);
+		mapa1.add(carro1_12).setBounds(119, 103, 17, 45);
+		mapa1.add(carro1_13).setBounds(139, 103, 17, 45);
+		mapa1.add(carro1_14).setBounds(159, 103, 17, 45);
+		mapa1.add(carro1_15).setBounds(179, 103, 17, 45);
+		mapa1.add(carro1_16).setBounds(197, 113, 9, 34);
+		mapa1.add(carro1_17).setBounds(208, 113, 9, 34);
+		mapa1.add(carro1_18).setBounds(219, 113, 9, 34);
+		mapa1.add(carro1_19).setBounds(230, 113, 9, 34);
+		mapa1.add(carro1_20).setBounds(241, 113, 9, 34);
+		mapa1.add(carro1_21).setBounds(252, 113, 9, 34);
+		mapa1.add(carro1_22).setBounds(119, 150, 17, 45);
+		mapa1.add(carro1_23).setBounds(139, 150, 17, 45);
+		mapa1.add(carro1_24).setBounds(159, 150, 17, 45);
+		mapa1.add(carro1_25).setBounds(179, 150, 17, 45);
+		mapa1.add(carro1_26).setBounds(197, 150, 9, 34);
+		mapa1.add(carro1_27).setBounds(208, 150, 9, 34);
+		mapa1.add(carro1_28).setBounds(219, 150, 9, 34);
+		mapa1.add(carro1_29).setBounds(230, 150, 9, 34);
+		mapa1.add(carro1_30).setBounds(241, 150, 9, 34);
+		mapa1.add(carro1_31).setBounds(252, 150, 9, 34);
+		mapa1.add(carro1_32).setBounds(20, 253, 17, 45);
+		mapa1.add(carro1_33).setBounds(40, 253, 17, 45);
+		mapa1.add(carro1_34).setBounds(60, 253, 17, 45);
+		mapa1.add(carro1_35).setBounds(80, 253, 17, 45);
+		mapa1.add(carro1_36).setBounds(100, 253, 17, 45);
+		mapa1.add(carro1_37).setBounds(120, 253, 17, 45);
+		mapa1.add(carro1_38).setBounds(140, 253, 17, 45);
+		mapa1.add(carro1_39).setBounds(160, 253, 17, 45);
+		mapa1.add(carro1_40).setBounds(180, 253, 17, 45);
+		mapa1.add(carro1_41).setBounds(200, 253, 17, 45);
+		mapa1.add(carro1_42).setBounds(220, 253, 17, 45);
+		mapa1.add(carro1_43).setBounds(240, 253, 17, 45);
+		mapa1.add(carro1_44).setBounds(260, 253, 17, 45);
+		mapa1.add(carro1_45).setBounds(280, 253, 17, 45);
+
 		mapa1.add(JLImagemMapa1).setBounds(0, 0, 300, 300);
 	}
 
@@ -495,6 +636,38 @@ public class EstacionamentoAtieres {
 		mapa2.add(carro2_12).setBounds(240, 2, 17, 45);
 		mapa2.add(carro2_13).setBounds(260, 2, 17, 45);
 		mapa2.add(carro2_14).setBounds(280, 2, 17, 45);
+		mapa2.add(carro2_15).setBounds(99, 103, 17, 45);
+		mapa2.add(carro2_16).setBounds(119, 103, 17, 45);
+		mapa2.add(carro2_17).setBounds(139, 103, 17, 45);
+		mapa2.add(carro2_18).setBounds(159, 103, 17, 45);
+		mapa2.add(carro2_19).setBounds(179, 103, 17, 45);
+		mapa2.add(carro2_20).setBounds(199, 103, 17, 45);
+		mapa2.add(carro2_21).setBounds(219, 103, 17, 45);
+		mapa2.add(carro2_22).setBounds(239, 103, 17, 45);
+		mapa2.add(carro2_23).setBounds(99, 150, 17, 45);
+		mapa2.add(carro2_24).setBounds(119, 150, 17, 45);
+		mapa2.add(carro2_25).setBounds(139, 150, 17, 45);
+		mapa2.add(carro2_26).setBounds(159, 150, 17, 45);
+		mapa2.add(carro2_27).setBounds(179, 150, 17, 45);
+		mapa2.add(carro2_28).setBounds(199, 150, 17, 45);
+		mapa2.add(carro2_29).setBounds(219, 150, 17, 45);
+		mapa2.add(carro2_30).setBounds(239, 150, 17, 45);
+		mapa2.add(carro2_31).setBounds(20, 253, 17, 45);
+		mapa2.add(carro2_32).setBounds(40, 253, 17, 45);
+		mapa2.add(carro2_33).setBounds(60, 253, 17, 45);
+		mapa2.add(carro2_34).setBounds(80, 253, 17, 45);
+		mapa2.add(carro2_35).setBounds(100, 253, 17, 45);
+		mapa2.add(carro2_36).setBounds(120, 253, 17, 45);
+		mapa2.add(carro2_37).setBounds(140, 253, 17, 45);
+		mapa2.add(carro2_38).setBounds(160, 253, 17, 45);
+		mapa2.add(carro2_39).setBounds(180, 253, 17, 45);
+		mapa2.add(carro2_40).setBounds(200, 253, 17, 45);
+		mapa2.add(carro2_41).setBounds(220, 253, 17, 45);
+		mapa2.add(carro2_42).setBounds(240, 253, 17, 45);
+		mapa2.add(carro2_43).setBounds(260, 253, 17, 45);
+		mapa2.add(carro2_44).setBounds(280, 253, 17, 45);
+		mapa2.add(carro2_45).setBounds(300, 253, 17, 45);
+
 		mapa2.add(JLImagemMapa2).setBounds(0, 0, 300, 300);
 	}
 
@@ -594,6 +767,46 @@ public class EstacionamentoAtieres {
 		numVaga44.setForeground(Color.white);
 		numVaga45.setForeground(Color.white);
 
+		numVaga7.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga8.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga9.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga10.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga11.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga12.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga13.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga14.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga15.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga16.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga17.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga18.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga19.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga20.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga21.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga22.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga23.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga24.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga25.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga26.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga27.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga28.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga29.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga30.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga31.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga32.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga33.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga34.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga35.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga36.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga37.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga38.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga39.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga40.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga41.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga42.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga43.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga44.setFont(new Font("Arial", Font.BOLD, 10));
+		numVaga45.setFont(new Font("Arial", Font.BOLD, 10));
+
 		tela.add(mapa3).setBounds(630, 220, 300, 300);
 
 		mapa3.add(carro3_1).setBounds(20, 2, 17, 45);
@@ -610,52 +823,83 @@ public class EstacionamentoAtieres {
 		mapa3.add(carro3_12).setBounds(240, 2, 17, 45);
 		mapa3.add(carro3_13).setBounds(260, 2, 17, 45);
 		mapa3.add(carro3_14).setBounds(280, 2, 17, 45);
+		mapa3.add(carro3_15).setBounds(99, 103, 17, 45);
+		mapa3.add(carro3_16).setBounds(119, 103, 17, 45);
+		mapa3.add(carro3_17).setBounds(139, 103, 17, 45);
+		mapa3.add(carro3_18).setBounds(159, 103, 17, 45);
+		mapa3.add(carro3_19).setBounds(179, 103, 17, 45);
+		mapa3.add(carro3_20).setBounds(199, 103, 17, 45);
+		mapa3.add(carro3_21).setBounds(219, 103, 17, 45);
+		mapa3.add(carro3_22).setBounds(239, 103, 17, 45);
+		mapa3.add(carro3_23).setBounds(99, 150, 17, 45);
+		mapa3.add(carro3_24).setBounds(119, 150, 17, 45);
+		mapa3.add(carro3_25).setBounds(139, 150, 17, 45);
+		mapa3.add(carro3_26).setBounds(159, 150, 17, 45);
+		mapa3.add(carro3_27).setBounds(179, 150, 17, 45);
+		mapa3.add(carro3_28).setBounds(199, 150, 17, 45);
+		mapa3.add(carro3_29).setBounds(219, 150, 17, 45);
+		mapa3.add(carro3_30).setBounds(239, 150, 17, 45);
+		mapa3.add(carro3_31).setBounds(20, 253, 17, 45);
+		mapa3.add(carro3_32).setBounds(40, 253, 17, 45);
+		mapa3.add(carro3_33).setBounds(60, 253, 17, 45);
+		mapa3.add(carro3_34).setBounds(80, 253, 17, 45);
+		mapa3.add(carro3_35).setBounds(100, 253, 17, 45);
+		mapa3.add(carro3_36).setBounds(120, 253, 17, 45);
+		mapa3.add(carro3_37).setBounds(140, 253, 17, 45);
+		mapa3.add(carro3_38).setBounds(160, 253, 17, 45);
+		mapa3.add(carro3_39).setBounds(180, 253, 17, 45);
+		mapa3.add(carro3_40).setBounds(200, 253, 17, 45);
+		mapa3.add(carro3_41).setBounds(220, 253, 17, 45);
+		mapa3.add(carro3_42).setBounds(240, 253, 17, 45);
+		mapa3.add(carro3_43).setBounds(260, 253, 17, 45);
+		mapa3.add(carro3_44).setBounds(280, 253, 17, 45);
+		mapa3.add(carro3_45).setBounds(300, 253, 17, 45);
 
-		mapa3.add(numVaga1).setBounds(22, 47, 17, 17);
-		mapa3.add(numVaga2).setBounds(42, 47, 17, 17);
-		mapa3.add(numVaga3).setBounds(62, 47, 17, 17);
-		mapa3.add(numVaga4).setBounds(82, 47, 17, 17);
-		mapa3.add(numVaga5).setBounds(102, 47, 17, 17);
-		mapa3.add(numVaga6).setBounds(122, 47, 17, 17);
-		mapa3.add(numVaga7).setBounds(142, 47, 17, 17);
-		mapa3.add(numVaga8).setBounds(162, 47, 17, 17);
-		mapa3.add(numVaga9).setBounds(182, 47, 17, 17);
-		mapa3.add(numVaga10).setBounds(202, 47, 17, 17);
-		mapa3.add(numVaga11).setBounds(222, 47, 17, 17);
-		mapa3.add(numVaga12).setBounds(242, 47, 17, 17);
-		mapa3.add(numVaga13).setBounds(262, 47, 17, 17);
-		mapa3.add(numVaga14).setBounds(282, 47, 17, 17);
-		mapa3.add(numVaga15).setBounds(100, 85, 17, 17);
-		mapa3.add(numVaga16).setBounds(120, 85, 17, 17);
-		mapa3.add(numVaga17).setBounds(140, 85, 17, 17);
-		mapa3.add(numVaga18).setBounds(160, 85, 17, 17);
-		mapa3.add(numVaga19).setBounds(180, 85, 17, 17);
-		mapa3.add(numVaga20).setBounds(200, 85, 17, 17);
-		mapa3.add(numVaga21).setBounds(220, 85, 17, 17);
-		mapa3.add(numVaga22).setBounds(240, 85, 17, 17);
-		mapa3.add(numVaga23).setBounds(100, 195, 17, 17);
-		mapa3.add(numVaga24).setBounds(120, 195, 17, 17);
-		mapa3.add(numVaga25).setBounds(140, 195, 17, 17);
-		mapa3.add(numVaga26).setBounds(160, 195, 17, 17);
-		mapa3.add(numVaga27).setBounds(180, 195, 17, 17);
-		mapa3.add(numVaga28).setBounds(200, 195, 17, 17);
-		mapa3.add(numVaga29).setBounds(220, 195, 17, 17);
-		mapa3.add(numVaga30).setBounds(240, 195, 17, 17);
-		mapa3.add(numVaga31).setBounds(20, 235, 17, 17);
-		mapa3.add(numVaga32).setBounds(40, 235, 17, 17);
-		mapa3.add(numVaga33).setBounds(60, 235, 17, 17);
-		mapa3.add(numVaga34).setBounds(80, 235, 17, 17);
-		mapa3.add(numVaga35).setBounds(100, 235, 17, 17);
-		mapa3.add(numVaga36).setBounds(120, 235, 17, 17);
-		mapa3.add(numVaga37).setBounds(140, 235, 17, 17);
-		mapa3.add(numVaga38).setBounds(160, 235, 17, 17);
-		mapa3.add(numVaga39).setBounds(180, 235, 17, 17);
-		mapa3.add(numVaga40).setBounds(200, 235, 17, 17);
-		mapa3.add(numVaga41).setBounds(220, 235, 17, 17);
-		mapa3.add(numVaga42).setBounds(240, 235, 17, 17);
-		mapa3.add(numVaga43).setBounds(260, 235, 17, 17);
-		mapa3.add(numVaga44).setBounds(280, 235, 17, 17);
-		mapa3.add(numVaga45).setBounds(300, 235, 17, 17);
+		mapa3.add(numVaga1).setBounds(19, 47, 17, 17);
+		mapa3.add(numVaga2).setBounds(39, 47, 17, 17);
+		mapa3.add(numVaga3).setBounds(59, 47, 17, 17);
+		mapa3.add(numVaga4).setBounds(79, 47, 17, 17);
+		mapa3.add(numVaga5).setBounds(99, 47, 17, 17);
+		mapa3.add(numVaga6).setBounds(119, 47, 17, 17);
+		mapa3.add(numVaga7).setBounds(139, 47, 25, 17);
+		mapa3.add(numVaga8).setBounds(159, 47, 25, 17);
+		mapa3.add(numVaga9).setBounds(179, 47, 25, 17);
+		mapa3.add(numVaga10).setBounds(199, 47, 25, 17);
+		mapa3.add(numVaga11).setBounds(222, 47, 25, 17);
+		mapa3.add(numVaga12).setBounds(242, 47, 25, 17);
+		mapa3.add(numVaga13).setBounds(262, 47, 25, 17);
+		mapa3.add(numVaga14).setBounds(282, 47, 25, 17);
+		mapa3.add(numVaga15).setBounds(100, 85, 25, 17);
+		mapa3.add(numVaga16).setBounds(120, 85, 25, 17);
+		mapa3.add(numVaga17).setBounds(140, 85, 25, 17);
+		mapa3.add(numVaga18).setBounds(160, 85, 25, 17);
+		mapa3.add(numVaga19).setBounds(180, 85, 25, 17);
+		mapa3.add(numVaga20).setBounds(200, 85, 25, 17);
+		mapa3.add(numVaga21).setBounds(220, 85, 25, 17);
+		mapa3.add(numVaga22).setBounds(240, 85, 25, 17);
+		mapa3.add(numVaga23).setBounds(100, 195, 25, 17);
+		mapa3.add(numVaga24).setBounds(120, 195, 25, 17);
+		mapa3.add(numVaga25).setBounds(140, 195, 25, 17);
+		mapa3.add(numVaga26).setBounds(160, 195, 25, 17);
+		mapa3.add(numVaga27).setBounds(180, 195, 25, 17);
+		mapa3.add(numVaga28).setBounds(200, 195, 25, 17);
+		mapa3.add(numVaga29).setBounds(220, 195, 25, 17);
+		mapa3.add(numVaga30).setBounds(240, 195, 25, 17);
+		mapa3.add(numVaga31).setBounds(20, 235, 25, 17);
+		mapa3.add(numVaga32).setBounds(40, 235, 25, 17);
+		mapa3.add(numVaga33).setBounds(60, 235, 25, 17);
+		mapa3.add(numVaga34).setBounds(80, 235, 25, 17);
+		mapa3.add(numVaga35).setBounds(100, 235, 25, 17);
+		mapa3.add(numVaga36).setBounds(120, 235, 25, 17);
+		mapa3.add(numVaga37).setBounds(140, 235, 25, 17);
+		mapa3.add(numVaga38).setBounds(160, 235, 25, 17);
+		mapa3.add(numVaga39).setBounds(180, 235, 25, 17);
+		mapa3.add(numVaga40).setBounds(200, 235, 25, 17);
+		mapa3.add(numVaga41).setBounds(220, 235, 25, 17);
+		mapa3.add(numVaga42).setBounds(240, 235, 25, 17);
+		mapa3.add(numVaga43).setBounds(260, 235, 25, 17);
+		mapa3.add(numVaga44).setBounds(280, 235, 25, 17);
+		mapa3.add(numVaga45).setBounds(300, 235, 25, 17);
 
 		mapa3.add(JLImagemMapa3).setBounds(0, 0, 300, 300);
 
@@ -692,7 +936,7 @@ public class EstacionamentoAtieres {
 
 		} else {
 			carro1_5.setBackground(Color.green);
-		
+
 		}
 		if (e[0][5] == true) {
 			carro1_6.setBackground(Color.red);
@@ -706,8 +950,237 @@ public class EstacionamentoAtieres {
 		} else {
 			carro1_7.setBackground(Color.green);
 		}
-		
-		// Carros mapa2
+		if (e[0][7] == true) {
+			carro1_8.setBackground(Color.red);
+
+		} else {
+			carro1_8.setBackground(Color.green);
+		}
+		if (e[0][8] == true) {
+			carro1_9.setBackground(Color.red);
+
+		} else {
+			carro1_9.setBackground(Color.green);
+		}
+		if (e[0][9] == true) {
+			carro1_10.setBackground(Color.red);
+
+		} else {
+			carro1_10.setBackground(Color.green);
+		}
+		if (e[0][10] == true) {
+			carro1_11.setBackground(Color.red);
+
+		} else {
+			carro1_11.setBackground(Color.green);
+		}
+		if (e[0][11] == true) {
+			carro1_12.setBackground(Color.red);
+
+		} else {
+			carro1_12.setBackground(Color.green);
+		}
+		if (e[0][12] == true) {
+			carro1_13.setBackground(Color.red);
+
+		} else {
+			carro1_13.setBackground(Color.green);
+		}
+		if (e[0][13] == true) {
+			carro1_14.setBackground(Color.red);
+
+		} else {
+			carro1_14.setBackground(Color.green);
+		}
+		if (e[0][14] == true) {
+			carro1_15.setBackground(Color.red);
+
+		} else {
+			carro1_15.setBackground(Color.green);
+		}
+		if (e[0][15] == true) {
+			carro1_16.setBackground(Color.red);
+
+		} else {
+			carro1_16.setBackground(Color.green);
+		}
+		if (e[0][16] == true) {
+			carro1_17.setBackground(Color.red);
+
+		} else {
+			carro1_17.setBackground(Color.green);
+		}
+		if (e[0][17] == true) {
+			carro1_18.setBackground(Color.red);
+
+		} else {
+			carro1_18.setBackground(Color.green);
+		}
+		if (e[0][18] == true) {
+			carro1_19.setBackground(Color.red);
+
+		} else {
+			carro1_19.setBackground(Color.green);
+		}
+		if (e[0][19] == true) {
+			carro1_20.setBackground(Color.red);
+
+		} else {
+			carro1_20.setBackground(Color.green);
+		}
+		if (e[0][20] == true) {
+			carro1_21.setBackground(Color.red);
+
+		} else {
+			carro1_21.setBackground(Color.green);
+		}
+		if (e[0][21] == true) {
+			carro1_22.setBackground(Color.red);
+
+		} else {
+			carro1_22.setBackground(Color.green);
+		}
+		if (e[0][22] == true) {
+			carro1_23.setBackground(Color.red);
+
+		} else {
+			carro1_23.setBackground(Color.green);
+		}
+		if (e[0][23] == true) {
+			carro1_24.setBackground(Color.red);
+
+		} else {
+			carro1_24.setBackground(Color.green);
+		}
+		if (e[0][24] == true) {
+			carro1_25.setBackground(Color.red);
+
+		} else {
+			carro1_25.setBackground(Color.green);
+		}
+		if (e[0][25] == true) {
+			carro1_26.setBackground(Color.red);
+
+		} else {
+			carro1_26.setBackground(Color.green);
+		}
+		if (e[0][26] == true) {
+			carro1_27.setBackground(Color.red);
+
+		} else {
+			carro1_27.setBackground(Color.green);
+		}
+		if (e[0][27] == true) {
+			carro1_28.setBackground(Color.red);
+
+		} else {
+			carro1_28.setBackground(Color.green);
+		}
+		if (e[0][28] == true) {
+			carro1_29.setBackground(Color.red);
+
+		} else {
+			carro1_29.setBackground(Color.green);
+		}
+		if (e[0][29] == true) {
+			carro1_30.setBackground(Color.red);
+
+		} else {
+			carro1_30.setBackground(Color.green);
+		}
+		if (e[0][30] == true) {
+			carro1_31.setBackground(Color.red);
+
+		} else {
+			carro1_31.setBackground(Color.green);
+		}
+		if (e[0][31] == true) {
+			carro1_32.setBackground(Color.red);
+
+		} else {
+			carro1_32.setBackground(Color.green);
+		}
+		if (e[0][32] == true) {
+			carro1_33.setBackground(Color.red);
+
+		} else {
+			carro1_33.setBackground(Color.green);
+		}
+		if (e[0][33] == true) {
+			carro1_34.setBackground(Color.red);
+
+		} else {
+			carro1_34.setBackground(Color.green);
+		}
+		if (e[0][34] == true) {
+			carro1_35.setBackground(Color.red);
+
+		} else {
+			carro1_35.setBackground(Color.green);
+		}
+		if (e[0][35] == true) {
+			carro1_36.setBackground(Color.red);
+
+		} else {
+			carro1_36.setBackground(Color.green);
+		}
+		if (e[0][36] == true) {
+			carro1_37.setBackground(Color.red);
+
+		} else {
+			carro1_37.setBackground(Color.green);
+		}
+		if (e[0][37] == true) {
+			carro1_38.setBackground(Color.red);
+
+		} else {
+			carro1_38.setBackground(Color.green);
+		}
+		if (e[0][38] == true) {
+			carro1_39.setBackground(Color.red);
+
+		} else {
+			carro1_39.setBackground(Color.green);
+		}
+		if (e[0][39] == true) {
+			carro1_40.setBackground(Color.red);
+
+		} else {
+			carro1_40.setBackground(Color.green);
+		}
+		if (e[0][40] == true) {
+			carro1_41.setBackground(Color.red);
+
+		} else {
+			carro1_41.setBackground(Color.green);
+		}
+		if (e[0][41] == true) {
+			carro1_42.setBackground(Color.red);
+
+		} else {
+			carro1_42.setBackground(Color.green);
+		}
+		if (e[0][42] == true) {
+			carro1_43.setBackground(Color.red);
+
+		} else {
+			carro1_43.setBackground(Color.green);
+		}
+		if (e[0][43] == true) {
+			carro1_44.setBackground(Color.red);
+
+		} else {
+			carro1_44.setBackground(Color.green);
+		}
+		if (e[0][44] == true) {
+			carro1_45.setBackground(Color.red);
+
+		} else {
+			carro1_45.setBackground(Color.green);
+		}
+
+		// Cor carros mapa2
+
 		if (e[1][0] == true) {
 			carro2_1.setBackground(Color.red);
 
@@ -738,16 +1211,246 @@ public class EstacionamentoAtieres {
 
 		} else {
 			carro2_5.setBackground(Color.green);
-		}if (e[1][5] == true) {
+		}
+		if (e[1][5] == true) {
 			carro2_6.setBackground(Color.red);
 
 		} else {
 			carro2_6.setBackground(Color.green);
-		}if (e[1][6] == true) {
+		}
+		if (e[1][6] == true) {
 			carro2_7.setBackground(Color.red);
 
 		} else {
 			carro2_7.setBackground(Color.green);
+		}
+		if (e[1][7] == true) {
+			carro2_8.setBackground(Color.red);
+
+		} else {
+			carro2_8.setBackground(Color.green);
+		}
+		if (e[1][8] == true) {
+			carro2_9.setBackground(Color.red);
+
+		} else {
+			carro2_9.setBackground(Color.green);
+		}
+		if (e[1][9] == true) {
+			carro2_10.setBackground(Color.red);
+
+		} else {
+			carro2_10.setBackground(Color.green);
+		}
+		if (e[1][10] == true) {
+			carro2_11.setBackground(Color.red);
+
+		} else {
+			carro2_11.setBackground(Color.green);
+		}
+		if (e[1][11] == true) {
+			carro2_12.setBackground(Color.red);
+
+		} else {
+			carro2_12.setBackground(Color.green);
+		}
+		if (e[1][12] == true) {
+			carro2_13.setBackground(Color.red);
+
+		} else {
+			carro2_13.setBackground(Color.green);
+		}
+		if (e[1][13] == true) {
+			carro2_14.setBackground(Color.red);
+
+		} else {
+			carro2_14.setBackground(Color.green);
+		}
+		if (e[1][14] == true) {
+			carro2_15.setBackground(Color.red);
+
+		} else {
+			carro2_15.setBackground(Color.green);
+		}
+		if (e[1][15] == true) {
+			carro2_16.setBackground(Color.red);
+
+		} else {
+			carro2_16.setBackground(Color.green);
+		}
+		if (e[1][16] == true) {
+			carro2_17.setBackground(Color.red);
+
+		} else {
+			carro2_17.setBackground(Color.green);
+		}
+		if (e[1][17] == true) {
+			carro2_18.setBackground(Color.red);
+
+		} else {
+			carro2_18.setBackground(Color.green);
+		}
+		if (e[1][18] == true) {
+			carro2_19.setBackground(Color.red);
+
+		} else {
+			carro2_19.setBackground(Color.green);
+		}
+		if (e[1][19] == true) {
+			carro2_20.setBackground(Color.red);
+
+		} else {
+			carro2_20.setBackground(Color.green);
+		}
+		if (e[1][20] == true) {
+			carro2_21.setBackground(Color.red);
+
+		} else {
+			carro2_21.setBackground(Color.green);
+		}
+		if (e[1][21] == true) {
+			carro2_22.setBackground(Color.red);
+
+		} else {
+			carro2_22.setBackground(Color.green);
+		}
+		if (e[1][22] == true) {
+			carro2_23.setBackground(Color.red);
+
+		} else {
+			carro2_23.setBackground(Color.green);
+		}
+		if (e[1][23] == true) {
+			carro2_24.setBackground(Color.red);
+
+		} else {
+			carro2_24.setBackground(Color.green);
+		}
+		if (e[1][24] == true) {
+			carro2_25.setBackground(Color.red);
+
+		} else {
+			carro2_25.setBackground(Color.green);
+		}
+		if (e[1][25] == true) {
+			carro2_26.setBackground(Color.red);
+
+		} else {
+			carro2_26.setBackground(Color.green);
+		}
+		if (e[1][26] == true) {
+			carro2_27.setBackground(Color.red);
+
+		} else {
+			carro2_27.setBackground(Color.green);
+		}
+		if (e[1][27] == true) {
+			carro2_28.setBackground(Color.red);
+
+		} else {
+			carro2_28.setBackground(Color.green);
+		}
+		if (e[1][28] == true) {
+			carro2_29.setBackground(Color.red);
+
+		} else {
+			carro2_29.setBackground(Color.green);
+		}
+		if (e[1][29] == true) {
+			carro2_30.setBackground(Color.red);
+
+		} else {
+			carro2_30.setBackground(Color.green);
+		}
+		if (e[1][30] == true) {
+			carro2_31.setBackground(Color.red);
+
+		} else {
+			carro2_31.setBackground(Color.green);
+		}
+		if (e[1][31] == true) {
+			carro2_32.setBackground(Color.red);
+
+		} else {
+			carro2_32.setBackground(Color.green);
+		}
+		if (e[1][32] == true) {
+			carro2_33.setBackground(Color.red);
+
+		} else {
+			carro2_33.setBackground(Color.green);
+		}
+		if (e[1][33] == true) {
+			carro2_34.setBackground(Color.red);
+
+		} else {
+			carro2_34.setBackground(Color.green);
+		}
+		if (e[1][34] == true) {
+			carro2_35.setBackground(Color.red);
+
+		} else {
+			carro2_35.setBackground(Color.green);
+		}
+		if (e[1][35] == true) {
+			carro2_36.setBackground(Color.red);
+
+		} else {
+			carro2_36.setBackground(Color.green);
+		}
+		if (e[1][36] == true) {
+			carro2_37.setBackground(Color.red);
+
+		} else {
+			carro2_37.setBackground(Color.green);
+		}
+		if (e[1][37] == true) {
+			carro2_38.setBackground(Color.red);
+
+		} else {
+			carro2_38.setBackground(Color.green);
+		}
+		if (e[1][38] == true) {
+			carro2_39.setBackground(Color.red);
+
+		} else {
+			carro2_39.setBackground(Color.green);
+		}
+		if (e[1][39] == true) {
+			carro2_40.setBackground(Color.red);
+
+		} else {
+			carro2_40.setBackground(Color.green);
+		}
+		if (e[1][40] == true) {
+			carro2_41.setBackground(Color.red);
+
+		} else {
+			carro2_41.setBackground(Color.green);
+		}
+		if (e[1][41] == true) {
+			carro2_42.setBackground(Color.red);
+
+		} else {
+			carro2_42.setBackground(Color.green);
+		}
+		if (e[1][42] == true) {
+			carro2_43.setBackground(Color.red);
+
+		} else {
+			carro2_43.setBackground(Color.green);
+		}
+		if (e[1][43] == true) {
+			carro2_44.setBackground(Color.red);
+
+		} else {
+			carro2_44.setBackground(Color.green);
+		}
+		if (e[1][44] == true) {
+			carro2_45.setBackground(Color.red);
+
+		} else {
+			carro2_45.setBackground(Color.green);
 		}
 
 		// Carros mapa3
@@ -780,18 +1483,249 @@ public class EstacionamentoAtieres {
 
 		} else {
 			carro3_5.setBackground(Color.green);
-		}if (e[2][5] == true) {
+		}
+		if (e[2][5] == true) {
 			carro3_6.setBackground(Color.red);
 
 		} else {
 			carro3_6.setBackground(Color.green);
-		}if (e[2][6] == true) {
+		}
+		if (e[2][6] == true) {
 			carro3_7.setBackground(Color.red);
 
 		} else {
 			carro3_7.setBackground(Color.green);
 		}
+		if (e[2][7] == true) {
+			carro3_8.setBackground(Color.red);
 
+		} else {
+			carro3_8.setBackground(Color.green);
+		}
+		if (e[2][8] == true) {
+			carro3_9.setBackground(Color.red);
+
+		} else {
+			carro3_9.setBackground(Color.green);
+		}
+		if (e[2][9] == true) {
+			carro3_10.setBackground(Color.red);
+
+		} else {
+			carro3_10.setBackground(Color.green);
+		}
+		if (e[2][10] == true) {
+			carro3_11.setBackground(Color.red);
+
+		} else {
+			carro3_11.setBackground(Color.green);
+		}
+		if (e[2][11] == true) {
+			carro3_12.setBackground(Color.red);
+
+		} else {
+			carro3_12.setBackground(Color.green);
+		}
+		if (e[2][12] == true) {
+			carro3_13.setBackground(Color.red);
+
+		} else {
+			carro3_13.setBackground(Color.green);
+		}
+		if (e[2][13] == true) {
+			carro3_14.setBackground(Color.red);
+
+		} else {
+			carro3_14.setBackground(Color.green);
+
+		}
+		if (e[2][14] == true) {
+			carro3_15.setBackground(Color.red);
+
+		} else {
+			carro3_15.setBackground(Color.green);
+		}
+		if (e[2][15] == true) {
+			carro3_16.setBackground(Color.red);
+
+		} else {
+			carro3_16.setBackground(Color.green);
+		}
+		if (e[2][16] == true) {
+			carro3_17.setBackground(Color.red);
+
+		} else {
+			carro3_17.setBackground(Color.green);
+		}
+		if (e[2][17] == true) {
+			carro3_18.setBackground(Color.red);
+
+		} else {
+			carro3_18.setBackground(Color.green);
+		}
+		if (e[2][18] == true) {
+			carro3_19.setBackground(Color.red);
+
+		} else {
+			carro3_19.setBackground(Color.green);
+		}
+		if (e[2][19] == true) {
+			carro3_20.setBackground(Color.red);
+
+		} else {
+			carro3_20.setBackground(Color.green);
+		}
+		if (e[2][20] == true) {
+			carro3_21.setBackground(Color.red);
+
+		} else {
+			carro3_21.setBackground(Color.green);
+		}
+		if (e[2][21] == true) {
+			carro3_22.setBackground(Color.red);
+
+		} else {
+			carro3_22.setBackground(Color.green);
+		}
+		if (e[2][22] == true) {
+			carro3_23.setBackground(Color.red);
+
+		} else {
+			carro3_23.setBackground(Color.green);
+		}
+		if (e[2][23] == true) {
+			carro3_24.setBackground(Color.red);
+
+		} else {
+			carro3_24.setBackground(Color.green);
+		}
+		if (e[2][24] == true) {
+			carro3_25.setBackground(Color.red);
+
+		} else {
+			carro3_25.setBackground(Color.green);
+		}
+		if (e[2][25] == true) {
+			carro3_26.setBackground(Color.red);
+
+		} else {
+			carro3_26.setBackground(Color.green);
+		}
+		if (e[2][26] == true) {
+			carro3_27.setBackground(Color.red);
+
+		} else {
+			carro3_27.setBackground(Color.green);
+		}
+		if (e[2][27] == true) {
+			carro3_28.setBackground(Color.red);
+
+		} else {
+			carro3_28.setBackground(Color.green);
+		}
+		if (e[2][28] == true) {
+			carro3_29.setBackground(Color.red);
+
+		} else {
+			carro3_29.setBackground(Color.green);
+		}
+		if (e[2][29] == true) {
+			carro3_30.setBackground(Color.red);
+
+		} else {
+			carro3_30.setBackground(Color.green);
+		}
+		if (e[2][30] == true) {
+			carro3_31.setBackground(Color.red);
+
+		} else {
+			carro3_31.setBackground(Color.green);
+		}
+		if (e[2][31] == true) {
+			carro3_32.setBackground(Color.red);
+
+		} else {
+			carro3_32.setBackground(Color.green);
+		}
+		if (e[2][32] == true) {
+			carro3_33.setBackground(Color.red);
+
+		} else {
+			carro3_33.setBackground(Color.green);
+		}
+		if (e[2][33] == true) {
+			carro3_34.setBackground(Color.red);
+
+		} else {
+			carro3_34.setBackground(Color.green);
+		}
+		if (e[2][34] == true) {
+			carro3_35.setBackground(Color.red);
+
+		} else {
+			carro3_35.setBackground(Color.green);
+		}
+		if (e[2][35] == true) {
+			carro3_36.setBackground(Color.red);
+
+		} else {
+			carro3_36.setBackground(Color.green);
+		}
+		if (e[2][36] == true) {
+			carro3_37.setBackground(Color.red);
+
+		} else {
+			carro3_37.setBackground(Color.green);
+		}
+		if (e[2][37] == true) {
+			carro3_38.setBackground(Color.red);
+
+		} else {
+			carro3_38.setBackground(Color.green);
+		}
+		if (e[2][38] == true) {
+			carro3_39.setBackground(Color.red);
+
+		} else {
+			carro3_39.setBackground(Color.green);
+		}
+		if (e[2][39] == true) {
+			carro3_40.setBackground(Color.red);
+
+		} else {
+			carro3_40.setBackground(Color.green);
+		}
+		if (e[2][40] == true) {
+			carro3_41.setBackground(Color.red);
+
+		} else {
+			carro3_41.setBackground(Color.green);
+		}
+		if (e[2][41] == true) {
+			carro3_42.setBackground(Color.red);
+
+		} else {
+			carro3_42.setBackground(Color.green);
+		}
+		if (e[2][42] == true) {
+			carro3_43.setBackground(Color.red);
+
+		} else {
+			carro3_43.setBackground(Color.green);
+		}
+		if (e[2][43] == true) {
+			carro3_44.setBackground(Color.red);
+
+		} else {
+			carro3_44.setBackground(Color.green);
+		}
+		if (e[2][44] == true) {
+			carro3_45.setBackground(Color.red);
+
+		} else {
+			carro3_45.setBackground(Color.green);
+		}
+		corVagaMotos();
 	}
 
 	static void exibirTelaInformacao() {
@@ -821,6 +1755,7 @@ public class EstacionamentoAtieres {
 				randomEntrada();
 				exibirValorVagas();
 				exibirVaga();
+				
 
 			}
 		});
@@ -831,21 +1766,77 @@ public class EstacionamentoAtieres {
 				randomSaida();
 				exibirValorVagas();
 				exibirVaga();
+				
 
 			}
 		});
 
 	}
+//o contador ainda não está funcionano
+	static void con6adorVagaMotos() {
+		
+			if (e[0][15] == true) {
+				vagaMoto++;
+			} 
+			else{
+				
+			}if (e[0][16] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][17] == true) {
+				vagaMoto++;
+			}else{
+				
+			}  if (e[0][18] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][19] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][20] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][25] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][26] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][27] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][28] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][19] == true) {
+				vagaMoto++;
+			}else{
+				
+			} if (e[0][30] == true) {
+				vagaMoto++;
+			}else{
+				
+			} System.out.println(vagaMoto);
+	}
 
 	static void randomEntrada() {
 		int a = (int) (Math.random() * 3);
-		int b = (int) (Math.random() * 7);
+		int b = (int) (Math.random() * 45);
 
 		if (e[a][b] == false) {
 			e[a][b] = true;
 			if (vagaLivre > 0) {
 				vagaLivre--;
 				vagaOcup++;
+				
 			}
 
 		} else if (e[a][b] == true && vagaLivre > 0) {
@@ -858,13 +1849,14 @@ public class EstacionamentoAtieres {
 
 	static void randomSaida() {
 		int a = (int) (Math.random() * 3);
-		int b = (int) (Math.random() * 7);
+		int b = (int) (Math.random() * 45);
 
 		if (e[a][b] == true) {
 			e[a][b] = false;
 			if (vagaOcup > 0) {
 				vagaOcup--;
 				vagaLivre++;
+				
 			}
 
 		} else if (e[a][b] == false && vagaOcup > 0) {
@@ -948,7 +1940,70 @@ public class EstacionamentoAtieres {
 		case 21:
 			valorVagaOcup.setText("21");
 			break;
-		
+		case 22:
+			valorVagaOcup.setText("22");
+			break;
+		case 23:
+			valorVagaOcup.setText("23");
+			break;
+		case 24:
+			valorVagaOcup.setText("24");
+			break;
+		case 25:
+			valorVagaOcup.setText("25");
+			break;
+		case 26:
+			valorVagaOcup.setText("26");
+			break;
+		case 27:
+			valorVagaOcup.setText("27");
+			break;
+		case 28:
+			valorVagaOcup.setText("28");
+			break;
+		case 29:
+			valorVagaOcup.setText("29");
+			break;
+		case 30:
+			valorVagaOcup.setText("30");
+			break;
+		case 31:
+			valorVagaOcup.setText("31");
+			break;
+		case 32:
+			valorVagaOcup.setText("32");
+			break;
+		case 33:
+			valorVagaOcup.setText("33");
+			break;
+		case 34:
+			valorVagaOcup.setText("34");
+			break;
+		case 35:
+			valorVagaOcup.setText("35");
+			break;
+		case 36:
+			valorVagaOcup.setText("36");
+			break;
+		case 37:
+			valorVagaOcup.setText("37");
+			break;
+		case 38:
+			valorVagaOcup.setText("38");
+			break;
+		case 39:
+			valorVagaOcup.setText("39");
+			break;
+		case 40:
+			valorVagaOcup.setText("40");
+			break;
+		case 41:
+			valorVagaOcup.setText("41");
+			break;
+		case 42:
+			valorVagaOcup.setText("42");
+			break;
+
 		}
 
 	}
@@ -1021,7 +2076,69 @@ public class EstacionamentoAtieres {
 		case 21:
 			valorVagaLivre.setText("21");
 			break;
-		
+		case 22:
+			valorVagaLivre.setText("22");
+			break;
+		case 23:
+			valorVagaLivre.setText("23");
+			break;
+		case 24:
+			valorVagaLivre.setText("24");
+			break;
+		case 25:
+			valorVagaLivre.setText("25");
+			break;
+		case 26:
+			valorVagaLivre.setText("26");
+			break;
+		case 27:
+			valorVagaLivre.setText("27");
+			break;
+		case 28:
+			valorVagaLivre.setText("28");
+			break;
+		case 29:
+			valorVagaLivre.setText("29");
+			break;
+		case 30:
+			valorVagaLivre.setText("30");
+			break;
+		case 31:
+			valorVagaLivre.setText("31");
+			break;
+		case 32:
+			valorVagaLivre.setText("32");
+			break;
+		case 33:
+			valorVagaLivre.setText("33");
+			break;
+		case 34:
+			valorVagaLivre.setText("34");
+			break;
+		case 35:
+			valorVagaLivre.setText("35");
+			break;
+		case 36:
+			valorVagaLivre.setText("36");
+			break;
+		case 37:
+			valorVagaLivre.setText("37");
+			break;
+		case 38:
+			valorVagaLivre.setText("38");
+			break;
+		case 39:
+			valorVagaLivre.setText("39");
+			break;
+		case 40:
+			valorVagaLivre.setText("40");
+			break;
+		case 41:
+			valorVagaLivre.setText("41");
+			break;
+		case 42:
+			valorVagaLivre.setText("42");
+			break;
 
 		}
 	}
